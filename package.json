@@ -1,0 +1,22 @@
+{
+  "name": "mobile_namecard",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paranoimin/mobile_namecard.git"
+  },
+  "author": "jamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paranoimin/mobile_namecard/issues"
+  },
+  "homepage": "https://github.com/paranoimin/mobile_namecard#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
